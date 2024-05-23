@@ -18,6 +18,7 @@
 
 using namespace gnss_comm;
 //int main
+//current
 #define MAX_GNSS_CAMERA_DELAY 0.05
 
 std::unique_ptr<Estimator> estimator_ptr;
