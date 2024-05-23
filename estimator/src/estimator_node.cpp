@@ -17,7 +17,7 @@
 #include "utility/visualization.h"
 
 using namespace gnss_comm;
-
+//int main
 #define MAX_GNSS_CAMERA_DELAY 0.05
 
 std::unique_ptr<Estimator> estimator_ptr;
